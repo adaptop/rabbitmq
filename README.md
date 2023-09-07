@@ -19,6 +19,6 @@
 ![性感美女](https://i.tuiimg.net/002/750/c.jpg "性感")
 
 
-<img src="https://i.tuiimg.net/006/2967/2.jpg" width="50%">
+<img src="https://i.tuiimg.net/006/2967/2.jpg">
 
 ![古风美女](https://i.tuiimg.net/006/2967/1.jpg "杨晨晨")
